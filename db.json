@@ -1,0 +1,270 @@
+{
+  "users": [
+    {
+      "id": "Yrt_CpXal8nNiqMr30Jvt",
+      "employeeId": "DF-ADM-001",
+      "name": "Ananya Rao",
+      "email": "admin@dayflow.io",
+      "password": "$2a$10$mH2/rt9jmBw8wFQSMMPGPO4hnAZy1w60XnxTMakDeSCUjnzD/5XDm",
+      "role": "admin",
+      "department": "Human Resources",
+      "designation": "HR Manager",
+      "phone": "+91 90000 11111",
+      "address": "12 Residency Road, Bengaluru, KA",
+      "dateOfJoining": "2021-03-15",
+      "profilePicture": null,
+      "salary": {
+        "basic": 85000,
+        "hra": 34000,
+        "allowances": 12000,
+        "deductions": 9500,
+        "currency": "INR"
+      },
+      "createdAt": "2026-08-22T06:27:18.791Z"
+    },
+    {
+      "id": "DbprsU6MjiReQgXEylzvc",
+      "employeeId": "DF-EMP-101",
+      "name": "Rohan Mehta",
+      "email": "rohan@dayflow.io",
+      "password": "$2a$10$mH2/rt9jmBw8wFQSMMPGPO4hnAZy1w60XnxTMakDeSCUjnzD/5XDm",
+      "role": "employee",
+      "department": "Engineering",
+      "designation": "Software Engineer II",
+      "phone": "+91 90000 22222",
+      "address": "45 MG Road, Bengaluru, KA",
+      "dateOfJoining": "2022-07-01",
+      "profilePicture": null,
+      "salary": {
+        "basic": 62000,
+        "hra": 24800,
+        "allowances": 8000,
+        "deductions": 6200,
+        "currency": "INR"
+      },
+      "createdAt": "2026-08-22T06:27:18.791Z"
+    },
+    {
+      "id": "ijdLxbMDCScpz-9zfnrO3",
+      "employeeId": "DF-EMP-102",
+      "name": "Sneha Kulkarni",
+      "email": "sneha@dayflow.io",
+      "password": "$2a$10$mH2/rt9jmBw8wFQSMMPGPO4hnAZy1w60XnxTMakDeSCUjnzD/5XDm",
+      "role": "employee",
+      "department": "Design",
+      "designation": "Product Designer",
+      "phone": "+91 90000 33333",
+      "address": "8 Indiranagar, Bengaluru, KA",
+      "dateOfJoining": "2023-01-10",
+      "profilePicture": null,
+      "salary": {
+        "basic": 54000,
+        "hra": 21600,
+        "allowances": 6000,
+        "deductions": 5400,
+        "currency": "INR"
+      },
+      "createdAt": "2026-08-22T06:27:18.791Z"
+    },
+    {
+      "id": "oAvVZrquLx67o6ik9oQiY",
+      "employeeId": "DF-EMP-103",
+      "name": "Arjun Nair",
+      "email": "arjun@dayflow.io",
+      "password": "$2a$10$mH2/rt9jmBw8wFQSMMPGPO4hnAZy1w60XnxTMakDeSCUjnzD/5XDm",
+      "role": "employee",
+      "department": "Sales",
+      "designation": "Account Executive",
+      "phone": "+91 90000 44444",
+      "address": "3 Koramangala, Bengaluru, KA",
+      "dateOfJoining": "2023-09-20",
+      "profilePicture": null,
+      "salary": {
+        "basic": 48000,
+        "hra": 19200,
+        "allowances": 5000,
+        "deductions": 4800,
+        "currency": "INR"
+      },
+      "createdAt": "2026-08-22T06:27:18.791Z"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "V8bwqcfMZTJaJ4z4XNvtB",
+      "userId": "DbprsU6MjiReQgXEylzvc",
+      "date": "2026-08-16",
+      "status": "Present",
+      "checkIn": "09:26:00",
+      "checkOut": "18:16:00"
+    },
+    {
+      "id": "4tQsodlB1TAH1qKZgRKDP",
+      "userId": "DbprsU6MjiReQgXEylzvc",
+      "date": "2026-08-17",
+      "status": "Half-day",
+      "checkIn": "09:25:00",
+      "checkOut": "18:15:00"
+    },
+    {
+      "id": "ybkpqR8Eq0xbkqyrvNL1a",
+      "userId": "DbprsU6MjiReQgXEylzvc",
+      "date": "2026-08-18",
+      "status": "Present",
+      "checkIn": "09:24:00",
+      "checkOut": "18:14:00"
+    },
+    {
+      "id": "uzUrHoUzIYTgK6YqX91c8",
+      "userId": "DbprsU6MjiReQgXEylzvc",
+      "date": "2026-08-19",
+      "status": "Present",
+      "checkIn": "09:23:00",
+      "checkOut": "18:13:00"
+    },
+    {
+      "id": "_W2ivBivi0XJjg5AL2X5Y",
+      "userId": "DbprsU6MjiReQgXEylzvc",
+      "date": "2026-08-20",
+      "status": "Present",
+      "checkIn": "09:22:00",
+      "checkOut": "18:12:00"
+    },
+    {
+      "id": "YBTH_FXaIs_5QcO3cjLXg",
+      "userId": "DbprsU6MjiReQgXEylzvc",
+      "date": "2026-08-21",
+      "status": "Absent",
+      "checkIn": null,
+      "checkOut": null
+    },
+    {
+      "id": "lKAnbWCz0JwS34H__Qljh",
+      "userId": "ijdLxbMDCScpz-9zfnrO3",
+      "date": "2026-08-16",
+      "status": "Present",
+      "checkIn": "09:26:00",
+      "checkOut": "18:16:00"
+    },
+    {
+      "id": "Cbd-jWwyIZNt2k3CThrX7",
+      "userId": "ijdLxbMDCScpz-9zfnrO3",
+      "date": "2026-08-17",
+      "status": "Half-day",
+      "checkIn": "09:25:00",
+      "checkOut": "18:15:00"
+    },
+    {
+      "id": "7BqnobmCOUiYsVJuXM0Ss",
+      "userId": "ijdLxbMDCScpz-9zfnrO3",
+      "date": "2026-08-18",
+      "status": "Present",
+      "checkIn": "09:24:00",
+      "checkOut": "18:14:00"
+    },
+    {
+      "id": "PX2DSwjO6PzbtR_maPjQL",
+      "userId": "ijdLxbMDCScpz-9zfnrO3",
+      "date": "2026-08-19",
+      "status": "Present",
+      "checkIn": "09:23:00",
+      "checkOut": "18:13:00"
+    },
+    {
+      "id": "-45-_ijhKJY-EL7Opv_KO",
+      "userId": "ijdLxbMDCScpz-9zfnrO3",
+      "date": "2026-08-20",
+      "status": "Present",
+      "checkIn": "09:22:00",
+      "checkOut": "18:12:00"
+    },
+    {
+      "id": "zf_vFlb11w3E9ikYw_loP",
+      "userId": "ijdLxbMDCScpz-9zfnrO3",
+      "date": "2026-08-21",
+      "status": "Absent",
+      "checkIn": null,
+      "checkOut": null
+    },
+    {
+      "id": "pofh0o0uYDlD1RS2h4JMe",
+      "userId": "oAvVZrquLx67o6ik9oQiY",
+      "date": "2026-08-16",
+      "status": "Present",
+      "checkIn": "09:26:00",
+      "checkOut": "18:16:00"
+    },
+    {
+      "id": "BRvdd_5eu9szRJMwk7WOA",
+      "userId": "oAvVZrquLx67o6ik9oQiY",
+      "date": "2026-08-17",
+      "status": "Half-day",
+      "checkIn": "09:25:00",
+      "checkOut": "18:15:00"
+    },
+    {
+      "id": "9UEq2DhMWwf0cTIxCLbgS",
+      "userId": "oAvVZrquLx67o6ik9oQiY",
+      "date": "2026-08-18",
+      "status": "Present",
+      "checkIn": "09:24:00",
+      "checkOut": "18:14:00"
+    },
+    {
+      "id": "YzKEOK-214UhpxoC6hzv8",
+      "userId": "oAvVZrquLx67o6ik9oQiY",
+      "date": "2026-08-19",
+      "status": "Present",
+      "checkIn": "09:23:00",
+      "checkOut": "18:13:00"
+    },
+    {
+      "id": "1LBpBSu8DLBMqtaPRIJMM",
+      "userId": "oAvVZrquLx67o6ik9oQiY",
+      "date": "2026-08-20",
+      "status": "Present",
+      "checkIn": "09:22:00",
+      "checkOut": "18:12:00"
+    },
+    {
+      "id": "mO5iFRgvJQUuHfV4BC-BQ",
+      "userId": "oAvVZrquLx67o6ik9oQiY",
+      "date": "2026-08-21",
+      "status": "Absent",
+      "checkIn": null,
+      "checkOut": null
+    },
+    {
+      "id": "JsRAz_TIDyaAMzM7boTOn",
+      "userId": "DbprsU6MjiReQgXEylzvc",
+      "date": "2026-08-22",
+      "status": "Half-day",
+      "checkIn": "12:02:03",
+      "checkOut": "12:02:04"
+    }
+  ],
+  "leaves": [
+    {
+      "id": "v2nLD8vLYEBjI2cc4UPuL",
+      "userId": "DbprsU6MjiReQgXEylzvc",
+      "type": "Sick",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-25",
+      "remarks": "Fever and flu, need rest to recover.",
+      "status": "Approved",
+      "adminComment": "",
+      "appliedOn": "2026-08-22T06:27:18.791Z"
+    },
+    {
+      "id": "M835ofj9QWx5A6JLeo7G4",
+      "userId": "ijdLxbMDCScpz-9zfnrO3",
+      "type": "Paid",
+      "startDate": "2026-08-12",
+      "endDate": "2026-08-14",
+      "remarks": "Family function out of town.",
+      "status": "Approved",
+      "adminComment": "Enjoy, approved.",
+      "appliedOn": "2026-08-08"
+    }
+  ]
+}
